@@ -4,11 +4,11 @@
   "description": "-Roberto Borges",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: no test created yet\""
   },
   "repository": {
     "type": "git",
-    "url": "="
+    "url": "git+https://github.com/RobertoBorges98/comp3104.git"
   },
   "keywords": [],
   "author": "",
